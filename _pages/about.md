@@ -12,3 +12,10 @@ Hello! I'm a second year PhD student in the [Computer Sciences department]((http
 Research
 ======
 I am interested in the intersection of theoretical machine learning, game theory, and mechanism design. Recently I have been working on how to facilitate data sharing amoungst strategic agents for machine learning problems. My goal is to design mechanisms that incentivize participants to truthfully contribute data so that they may all obtain improved models. Please feel free to reach out if any of this interests you, I'm always happy to chat!
+
+Teaching
+======
+
+Discrete Math (CS240)
+
+Data Science Programming II (CS320)

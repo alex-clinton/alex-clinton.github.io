@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Alex Clinton"
   pronouns         : # example: "she/her"  
-  bio              : "Computer Science PhD student at UW-Madison"
+  bio              : "Computer Science PhD student"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "UW-Madison"
   uri              : # URL
   email            : "none@example.org" 
 

@@ -16,6 +16,6 @@ I am interested in the intersection of theoretical machine learning, game theory
 Teaching
 ======
 
-Discrete Math (CS240)
+- Discrete Math (CS240) TA: Fall 2023
 
-Data Science Programming II (CS320)
+- Data Science Programming II (CS320) TA: Spring 2024

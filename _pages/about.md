@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a second year PhD student in the [Computer Sciences department]((https://www.cs.wisc.edu)) at the [University of Wisconsin-Madison](https://www.wisc.edu). I am grateful to be advised by [Prof. Kirthevasan Kandasamy](https://pages.cs.wisc.edu/~kandasamy/index.html). Prior coming to Madison I did my undergrad at the [University of Notre Dame](https://www.nd.edu) where I majored in Computer Science and Mathematics. 
+Hello! I'm a first year PhD student in the [Computer Sciences department]((https://www.cs.wisc.edu)) at the [University of Wisconsin-Madison](https://www.wisc.edu). I am grateful to be advised by [Prof. Kirthevasan Kandasamy](https://pages.cs.wisc.edu/~kandasamy/index.html). Prior coming to Madison I did my undergrad at the [University of Notre Dame](https://www.nd.edu) where I majored in Computer Science and Mathematics. 
 
 Research
 ======

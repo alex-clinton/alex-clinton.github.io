@@ -16,7 +16,9 @@ I am interested in the intersection of theoretical machine learning, game theory
 Papers
 ======
 
-- Data Sharing for Mean Estimation Among Heterogeneous Strategic Agents \[pdf - coming soon\]
+- Data Sharing for Mean Estimation Among Heterogeneous Strategic Agents
+Alex Clinton, Yiding Chen, Xiaojin Zhu, Kirthevasan Kandasamy
+[pdf - coming soon]
 
 Teaching
 ======

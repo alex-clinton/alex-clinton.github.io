@@ -17,6 +17,7 @@ Papers
 ======
 
 - Data Sharing for Mean Estimation Among Heterogeneous Strategic Agents
+  
 Alex Clinton, Yiding Chen, Xiaojin Zhu, Kirthevasan Kandasamy
 [pdf - coming soon]
 

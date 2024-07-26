@@ -26,13 +26,13 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Computer Science PhD student"
   location         : # "Earth"
-  employer         : "UW-Madison"
+  employer         : "Univerisity of Wisconsin-Madison"
   uri              : # URL
   email            : aclinton@wisc.edu # "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : https://scholar.google.com/citations?user=3UQ5W3wAAAAJ # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL

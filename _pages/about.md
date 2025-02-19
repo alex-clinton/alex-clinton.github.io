@@ -20,8 +20,8 @@ Papers
   Alex Clinton, Yiding Chen, Xiaojin Zhu, Kirthevasan Kandasamy  
   [[arxiv](https://arxiv.org/abs/2407.15881)]
 
-- Incentivizing Truthful Data Contributions in a Marketplace for Mean Estimation
-  Keran Chen, Alex Clinton, Kirthevasan Kandasamy
+- Incentivizing Truthful Data Contributions in a Marketplace for Mean Estimation  
+  Keran Chen, Alex Clinton, Kirthevasan Kandasamy  
   [arxiv - coming soon]
 
 Teaching

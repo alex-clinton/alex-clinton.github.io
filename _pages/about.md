@@ -22,7 +22,7 @@ Papers
 
 - Incentivizing Truthful Data Contributions in a Marketplace for Mean Estimation  
   Keran Chen, Alex Clinton, Kirthevasan Kandasamy  
-  [arxiv - coming soon]
+  [[arxiv](https://arxiv.org/pdf/2502.16052)]
 
 Teaching
 ======

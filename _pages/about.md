@@ -16,13 +16,14 @@ I am interested in the intersection of machine learning, game theory, and mechan
 Papers
 ======
 
-- Data Sharing for Mean Estimation Among Heterogeneous Strategic Agents  
-  Alex Clinton, Yiding Chen, Xiaojin Zhu, Kirthevasan Kandasamy  
-  [[arxiv](https://arxiv.org/abs/2407.15881)]
-
 - Incentivizing Truthful Data Contributions in a Marketplace for Mean Estimation  
   Keran Chen, Alex Clinton, Kirthevasan Kandasamy  
   [[arxiv](https://arxiv.org/pdf/2502.16052)]
+
+- Collaborative Mean Estimation Among Heterogeneous Strategic Agents: Individual Rationality, Fairness, and Truthful Contribution  
+  Alex Clinton, Yiding Chen, Xiaojin Zhu, Kirthevasan Kandasamy  
+  Forty-Second International Conference on Machine Learning (ICML), 2025  
+  [[arxiv](https://arxiv.org/abs/2407.15881)]
 
 Teaching
 ======

@@ -9,6 +9,8 @@ redirect_from:
 
 Hello! I'm a second year PhD student in the [Computer Sciences department]((https://www.cs.wisc.edu)) at the [University of Wisconsin-Madison](https://www.wisc.edu). I am grateful to be advised by [Prof. Kirthevasan Kandasamy](https://pages.cs.wisc.edu/~kandasamy/index.html). Prior coming to Madison I did my undergrad at the [University of Notre Dame](https://www.nd.edu) where I majored in Computer Science and Mathematics. 
 
+Excited to announce I'll be interning at Google in Seattle this summer!
+
 Research
 ======
 I am interested in the intersection of machine learning, game theory, and mechanism design. Recently I have been working on how to facilitate data sharing amongst strategic agents for machine learning problems. My goal is to design mechanisms that incentivize participants to truthfully contribute data so that they may all obtain improved models. Please feel free to reach out if any of this interests you, I'm always happy to chat!

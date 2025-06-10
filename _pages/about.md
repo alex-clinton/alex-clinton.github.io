@@ -18,6 +18,10 @@ I am interested in the intersection of machine learning, game theory, and mechan
 Papers
 ======
 
+- A Cramér-von Mises Approach to Incentivizing Truthful Data Sharing
+  Alex Clinton, Thomas Zeng, Yiding Chen, Xiaojin Zhu, Kirthevasan Kandasamy
+  [[arxiv](https://arxiv.org/abs/2506.07272)]
+
 - Incentivizing Truthful Data Contributions in a Marketplace for Mean Estimation  
   Keran Chen, Alex Clinton, Kirthevasan Kandasamy  
   [[arxiv](https://arxiv.org/pdf/2502.16052)]

@@ -24,7 +24,7 @@ Papers
 
 - Incentivizing Truthful Data Contributions in a Marketplace for Mean Estimation  
   Keran Chen, Alex Clinton, Kirthevasan Kandasamy  
-  [[arxiv](https://arxiv.org/pdf/2502.16052)]
+  [[arxiv](https://arxiv.org/abs/2502.16052)]
 
 - Collaborative Mean Estimation Among Heterogeneous Strategic Agents: Individual Rationality, Fairness, and Truthful Contribution  
   Alex Clinton, Yiding Chen, Xiaojin Zhu, Kirthevasan Kandasamy  

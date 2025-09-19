@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 Hello! I'm a PhD student in the [Computer Sciences department]((https://www.cs.wisc.edu)) at the [University of Wisconsin-Madison](https://www.wisc.edu). I am grateful to be advised by [Prof. Kirthevasan Kandasamy](https://pages.cs.wisc.edu/~kandasamy/index.html). Prior coming to Madison I did my undergrad at the [University of Notre Dame](https://www.nd.edu) where I majored in Computer Science and Mathematics. 
-
-Excited to announce I'll be interning at Google in Seattle this summer!
+I spent time last summer interning at Google in Seattle.
 
 Research
 ======
@@ -18,7 +17,8 @@ I am interested in the intersection of machine learning, game theory, and mechan
 Papers
 ======
 
-- A Cramér-von Mises Approach to Incentivizing Truthful Data Sharing  
+- A Cramér-von Mises Approach to Incentivizing Truthful Data Sharing
+  Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025
   Alex Clinton, Thomas Zeng, Yiding Chen, Xiaojin Zhu, Kirthevasan Kandasamy  
   [[arxiv](https://arxiv.org/abs/2506.07272)]
 

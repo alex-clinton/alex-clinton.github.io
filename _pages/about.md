@@ -17,8 +17,8 @@ I am interested in the intersection of machine learning, game theory, and mechan
 Papers
 ======
 
-- A Cramér-von Mises Approach to Incentivizing Truthful Data Sharing
-  Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025
+- A Cramér-von Mises Approach to Incentivizing Truthful Data Sharing  
+  Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025  
   Alex Clinton, Thomas Zeng, Yiding Chen, Xiaojin Zhu, Kirthevasan Kandasamy  
   [[arxiv](https://arxiv.org/abs/2506.07272)]
 
